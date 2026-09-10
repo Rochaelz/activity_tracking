@@ -1,2 +1,3 @@
 An average person reads about 100.000 Words in a day...
 Glad this is part of your 100.000 for the day.
+^.^
