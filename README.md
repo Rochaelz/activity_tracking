@@ -3,4 +3,4 @@ Glad this is part of your 100.000 for the day.
 ^.^
 .....................................
 
-commit merchant
+commit merchant.
