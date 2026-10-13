@@ -1,1 +1,1 @@
-print("Tung")
+print("Tung.")
